@@ -39,7 +39,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 - [x] Side Navigation and Calendar View
 - [x] Snap windows in different layouts
 - [x] Browser, Store, Terminal, Calculator
-- [x] Notepad, Vscode, Whiteboard
+- [x] Notepad, VS Code, Whiteboard
 - [ ] File Explorer + Setting
 - [x] Drag and Resize windows
 - [x] Startup and Lock screen
@@ -51,7 +51,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 - Framework - React (^17.0.2) + Redux
 - Component/UI Library - None!!
-- Styling Solution - SCSS and CSS Modules (tailwind).
+- Styling Solution - SCSS and CSS Modules (Tailwind).
 - Icons - fontawesome
 
 ## FAQ
@@ -83,7 +83,7 @@ WHY NOT? Why not just waste a week of your life creating a React project, just t
 
 # Docker
 
-To use docker use the following command ``` docker run -d  --restart unless-stopped --name win11react -p 3000:3000 blueedge/win11react:latest ```
+To use Docker use the following command ``` docker run -d  --restart unless-stopped --name win11react -p 3000:3000 blueedge/win11react:latest ```
 
 # Homeassistant
 
@@ -101,7 +101,7 @@ You can find a compiled `.exe` in the **Releases** section or via clicking [HERE
 
 **WINGET - WINDOWS PACKAGE MANAGER**
 
-If you have one of the latest windows builds then you can enter the command below in **CMD**
+If you have one of the latest Windows builds then you can enter the command below in **CMD**
 
 ``` winget install blueedge.win11react ```
 
